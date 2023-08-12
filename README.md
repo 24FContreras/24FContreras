@@ -4,7 +4,7 @@
 Welcome to my github profile! In my repository you can find many projects and challenges from DesafioLatam(DL), The Odin Project(TOP), Frontend Mentor (FM) and national's program Talento Digital(TD), as well as personal projects. Take a look!
 
 <div id="badges">
-  <a href="https://github.com/24FContreras">
+  <a href="https://www.linkedin.com/in/24fcontreras">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://francocontreras.netlify.app/">
