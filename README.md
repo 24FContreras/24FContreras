@@ -1,8 +1,6 @@
 <img src="./assets/gh-banner.png">
 
 # :shark: Hey there! It's Franco
-Javascript Fullstack Developer
-
 Welcome to my github profile! In my repository you can find many projects and challenges from DesafioLatam(DL), The Odin Project(TOP), Frontend Mentor (FM) and national's program Talento Digital(TD), as well as personal projects. Take a look!
 
 <div id="badges">
