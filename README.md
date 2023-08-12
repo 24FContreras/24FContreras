@@ -50,3 +50,6 @@ Welcome to my github profile! In my repository you can find many projects and ch
 <img src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white">
 <img src="https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+
+<img src="https://github-readme-stats.vercel.app/api?username=24fcontreras&show_icons=true&card_width=435&title_color=00bf60&bg_color=161b22&hide_border=true&text_color=F0F2FFBF" align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=24FContreras&hide_progress=true&title_color=00bf60&bg_color=161b22&hide_border=true&text_color=F0F2FFBF&card_width=435" align="right">
