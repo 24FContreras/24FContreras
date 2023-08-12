@@ -1,3 +1,5 @@
+<img src="./assets/gh-banner.png">
+
 # :shark: Hey there! It's Franco
 Javascript Fullstack Developer
 
