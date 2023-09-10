@@ -27,6 +27,7 @@ Welcome to my github profile! In my repository you can find many projects and ch
         "Programming languages"
     ],
     "learning_now": [
+        "Flutter",
         "Vue 3",
         "Mongo DB",
         "Firebase"
